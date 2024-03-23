@@ -1,0 +1,28 @@
+[
+    {
+        "endpoint": "/close",
+        "parameters": ["switch","time"]
+    },
+    {
+        "endpoint": "/open",
+        "parameters": ["switch","time"]
+    },
+    {
+        "endpoint": "/check",
+        "parameters": ["switch"]
+    },
+    {
+        "endpoint": "/list"
+    },
+    {
+        "endpoint": "/"
+    },
+    {
+        "endpoint": "/reset",
+        "parameters": ["password"]
+    },
+    {
+        "endpoint": "/resetModule",
+        "parameters": ["password"]
+    }
+]
